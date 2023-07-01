@@ -4,7 +4,7 @@
 
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/94018886/159292807-0756d26f-c565-406a-8ce8-99057bf832f5.gif" width="500" height="320" />
 
-## I'm a Mechanical Engineer, Android Developer and Creator !!
+## Android Developer and Creator !!
 
 - ✍ You can find my projects here on GitHub.
 - 🔭 I’m currently working on Android Studio creating apps.
