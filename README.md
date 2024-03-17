@@ -1,30 +1,43 @@
 # Hi there, I'm [Gouhar Lali](https://portfoliogouhar.herokuapp.com/) 👋
 
+I'm a Junior Android Developer passionate about crafting delightful mobile apps. Here's a glimpse of what I'm up to:
+
 <img align="right" alt="GIF-Android Studio" src="https://user-images.githubusercontent.com/94018886/159296764-97454442-03cd-4057-bc79-4ad97e88a751.gif" width="200" height="200" />
 
-## Junior Android Developer | Passionate Creator !!
+
+## About Me
 
 - 📱 Currently working on Android Studio, crafting delightful apps.
-- 🌱 Learning Kotlin to enhance my Android development skills.
-- 💬 Ask me about anything related to Android development, I'm keen to learn and share!
+- 💼 Proficient in Kotlin, Android Studio, Git, REST, JSON, and experienced with tools like Microsoft Azure, DevOps, BitBucket, and SourceTree.
+- 🔧 Skilled in problem-solving through log analysis and debugging, contributing to collaborative workflows using Azure DevOps.
+- 🌱 Quick to adapt, committed to learning, and eager to contribute to Android Development projects.
 
-### Let's Connect:
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Skills & Technologies
 
+As a Software Developer, I specialize in:
 
+- **Kotlin**: Proficient in Kotlin, leveraging its power for Android app development.
+- **Android Studio**: Experienced in utilizing Android Studio for crafting delightful mobile apps.
+- **Git**: Proficient in version control using Git, ensuring precise control over my work and collaborative workflows.
+- **REST & JSON**: Experienced in building and consuming RESTful APIs, handling JSON data effectively.
+- **Cloud Services**: Experienced with Microsoft Azure for scalable and performance-oriented cloud-based solutions.
+- **DevOps**: Utilized DevOps practices for continuous integration and deployment, enhancing development efficiency.
+- **BitBucket**: Proficient in managing repositories and collaborating with teams using BitBucket.
+- **Gradle**: Skilled in configuring and managing Gradle build scripts to streamline the development process.
+- **SourceTree**: Experienced in utilizing SourceTree for Git repository management and visualizing changes.
+- **GitHub**: Proficient in utilizing GitHub for version control and collaboration on open-source projects.
+- **Communication & Collaboration:** Microsoft Teams, Slack, Agile/Scrum Methodologies
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### Learning Journey
 
-  <img align="left" alt="Gouhar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GouharLali&show_icons=true&hide_border=true" />
+I'm currently diving deep into Kotlin to level up my Android development skills. Here are some resources I find helpful:
+- [Kotlin Programming Language Documentation](https://kotlinlang.org/docs/home.html)
+- [Android Kotlin Fundamentals Course on Udacity and learning Jetpack Compase](https://www.udacity.com/course/android-kotlin-developer-nanodegree--nd940)
 
-</details>
+## Let's Connect
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
+Feel free to connect with me on:
+- [LinkedIn](https://www.linkedin.com/in/gouhar-lali-22042bba/)
+- [GitHub](https://github.com/GouharLali)
+- Email: lali.gouhar@hotmail.com
 
-  <img align="left" alt="Gouhar's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GouharLali" />
-
-</details>
-
-[linkedin]: https://www.linkedin.com/in/gouhar-lali-22042bba/
