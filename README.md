@@ -37,6 +37,5 @@ I'm currently diving deep into Kotlin to level up my Android development skills.
 
 Feel free to connect with me on:
 - [LinkedIn](https://www.linkedin.com/in/gouhar-lali-22042bba/)
-- [GitHub](https://github.com/GouharLali)
 - Email: lali.gouhar@hotmail.com
 
