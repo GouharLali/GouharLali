@@ -31,8 +31,7 @@ As a Software Developer, I specialize in:
 ### Learning Journey
 
 I'm currently diving deep into Kotlin to level up my Android development skills. Here are some resources I find helpful:
-- [Kotlin Programming Language Documentation](https://kotlinlang.org/docs/home.html)
-- [Android Kotlin Fundamentals Course on Udacity and learning Jetpack Compase](https://www.udacity.com/course/android-kotlin-developer-nanodegree--nd940)
+- [Android Course on Udemy and learning Jetpack Compase](https://www.udacity.com/course/android-kotlin-developer-nanodegree--nd940](https://www.udemy.com/course/android-architecture-componentsmvvm-with-dagger-retrofit/learn/lecture/27217776#overview)
 
 ## Let's Connect
 
