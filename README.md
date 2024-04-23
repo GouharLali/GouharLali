@@ -7,7 +7,7 @@ I'm a Junior Android Developer passionate about crafting delightful mobile apps.
 
 ## About Me
 
-- 📱 Currently working on Android Studio, crafting delightful apps.
+- 📱 Currently working on Android Studio and Jetpack Compose, crafting delightful apps.
 - 💼 Proficient in Kotlin, Android Studio, Git, REST, JSON, and experienced with tools like Microsoft Azure, DevOps, BitBucket, and SourceTree.
 - 🔧 Skilled in problem-solving through log analysis and debugging, contributing to collaborative workflows using Azure DevOps.
 - 🌱 Quick to adapt, committed to learning, and eager to contribute to Android Development projects.
